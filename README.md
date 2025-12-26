@@ -22,6 +22,8 @@ Vertex AI & Gemini has built-in content filtering, safety ratings, and the abili
 Model Armor is a Google Cloud service designed to enhance the security and safety of your AI applications. It works by proactively screening LLM prompts and responses
 - https://docs.cloud.google.com/model-armor/manage-templates#set-confidence-level
 - https://docs.cloud.google.com/model-armor/sanitize-prompts-responses
+- https://github.com/alphasecio/model-armor
+- https://www.skills.google/course_templates/1385?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=65184237
 
 ---
 
