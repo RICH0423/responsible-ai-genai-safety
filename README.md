@@ -245,3 +245,12 @@ Logging / Audit / SCC
 - Vertex AI Safety Filters = **Model content safety**
 - Model Armor = **Enterprise GenAI security & governance**
 - Responsible AI requires **process + people + platform**
+
+---
+
+## Multi-region ai gateway with Guardrail Architecture - LiteLLM
+- https://docs.litellm.ai/docs/proxy/control_plane_and_data_plane
+- https://docs.litellm.ai/docs/proxy/guardrails/guardrail_load_balancing
+
+- getting started
+https://docs.litellm.ai/docs/
