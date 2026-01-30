@@ -25,6 +25,11 @@ Model Armor is a Google Cloud service designed to enhance the security and safet
 - https://github.com/alphasecio/model-armor
 - https://www.skills.google/course_templates/1385?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=65184237
 
+#### Secure genai app with model armor
+
+- https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/4-securing-ai-applications/securing-ai-applications?hl=en#6
+- https://github.com/GoogleCloudPlatform/devrel-demos/tree/main/security/model-armor-demo-app
+
 ---
 
 ##  1. Vertex AI Safety Filters vs Model Armor Filters
